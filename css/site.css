@@ -1,0 +1,23 @@
+img {
+    height: 100%;
+    width: 100%;
+    image-resolution: 100%;
+}
+
+.infoBox{
+    background-color: lightgray;
+    outline-color: darkgray;
+}
+
+.grad {
+    background: #4AC29A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #BDFFF3, #4AC29A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #BDFFF3, #4AC29A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+  }
+
+h1 {
+      margin-top: 10px;
+      margin-bottom: 5px;
+      margin-left: 50px;
+  }
